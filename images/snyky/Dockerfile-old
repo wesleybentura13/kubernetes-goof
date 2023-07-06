@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:kinetic
 LABEL maintainer="mattj"
 
 EXPOSE 8080
